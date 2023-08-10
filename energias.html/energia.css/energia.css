@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(184, 251, 229);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.conteiner{
+    font: 2em sans-serif;
+    text-emphasis: none;
+    text-align: center;
+    justify-content: center;
+}
+.main h1{
+text-align: center;
+color: coral;
+}
+
+.footer{
+    text-align: center;
+    color: black;
+}
